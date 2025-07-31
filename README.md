@@ -8,7 +8,7 @@ The entire application runs client-side, and all project data is stored in the u
 
 ## Live Application
 
-### [**> Click Here to Use the Document Generator <**]([https://your-github-username.github.io/your-repository-name/](https://spuds0588.github.io/Arive-Dynamic-Document-Generator/))
+### [**> Click Here to Use the Document Generator <**](https://spuds0588.github.io/Arive-Dynamic-Document-Generator/)
 
 ---
 
